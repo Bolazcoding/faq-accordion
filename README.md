@@ -1,6 +1,6 @@
-# Frontend Mentor - Interactive rating component solution
+# Frontend Mentor - FAQ accordion solution
 
-This is a solution to the [Interactive rating component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [FAQ accordion challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/faq-accordion-wyfFdeBwBz). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -18,7 +18,7 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 
 ## Overview
 
-- This interactive rating component project is created by frontend mentor to allow developers to challenge themselves and test their skills.
+- This FAQ accordion project is created by frontend mentor to allow developers to challenge themselves and test their skills.
 
 ### The challenge
 
@@ -36,8 +36,8 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 
 ### Links
 
-- Solution URL: [Solution URL](https://github.com/Bolazcoding/interactive-rating-component)
-- Live Site URL: [Live site URL](https://interactive-rating-component-khaki-mu.vercel.app/)
+- Solution URL: [Solution URL](https://github.com/Bolazcoding/faq-accordion)
+- Live Site URL: [Live site URL](https://faq-accordion-rho-rust.vercel.app/)
 
 ## My process
 
