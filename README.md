@@ -28,11 +28,11 @@ This is a solution to the [FAQ accordion challenge on Frontend Mentor](https://w
 
 - Desktop preview
 
-![](./images/Desktop%20preview.png)
+![](./assets/images/Desktop%20preview.png)
 
 - Mobile preview
 
-  ![](./images/Mobile%20preview.png)
+  ![](./assets/images/Mobile%20preview.png)
 
 ### Links
 
